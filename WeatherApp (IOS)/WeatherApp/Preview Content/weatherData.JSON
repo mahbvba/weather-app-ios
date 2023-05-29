@@ -1,0 +1,43 @@
+{
+    "coord":{
+        "lon":-0.3333,
+        "lat":51.75
+    },
+    "weather":[
+        {"id":804,
+            "main":"Clouds",
+            "description":"overcast clouds","icon":"04n"
+        }
+    ],
+    "base":"stations",
+    "main":{"temp":2.48,
+        "feels_like":-1.61,
+        "temp_min":0.43,
+        "temp_max":3.87,
+        "pressure":1032,
+        "humidity":73
+        
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":4.63,
+        "deg":320
+        
+    },
+    "clouds":{
+        "all":100
+        
+    },
+    "dt":1642704278,"sys":{
+        "type":2,
+        "id":2003743,
+        "country":"GB",
+        "sunrise":1642665393,
+        "sunset":1642696062
+    },
+    "timezone":0,
+    "id":2638867,
+    "name":"St Albans",
+    "cod":200
+    
+}
